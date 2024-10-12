@@ -15,7 +15,7 @@ body {
   
   #header {
     position: relative;
-    margin-top: 40px;
+    margin-top: 50px;
     border-radius: 12px 12px 0px 0px; 
   }
   
@@ -52,18 +52,22 @@ body {
   }
   
   .center-text {
-    margin-top: 80px;
-    margin-left: 50px; /* Adjust this value as needed */
+    margin-top: -90px;
+    margin-left: 155px;
     color: #3e3c36;
   }
-
   
+
   #main-content {
     min-height: 250px;
     width: 715px;
     margin-right: 50px;
     float: left;
     margin-left: 15px;
+  }
+
+  #main-content img{
+    margin-top:50px;
   }
   
   h2 strong {
